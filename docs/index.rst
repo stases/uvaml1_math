@@ -10,6 +10,6 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Maths
+   :caption: Mathematics
 
-   test
+   calculus
