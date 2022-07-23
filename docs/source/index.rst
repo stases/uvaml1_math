@@ -17,6 +17,7 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   :caption: Mathematics for MSc Artificial Intelligence
+   mathematics1/basic_mathematics
+   mathematics2/calculus
+   mathematics3/linear_algebra
