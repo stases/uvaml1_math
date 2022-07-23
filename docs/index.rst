@@ -9,7 +9,8 @@ Contents
 --------
 
 .. toctree::
-   :caption: Mathematics for MSc Artificial Intelligence
+   :maxdepth: 2
+   :caption: Maths:
    mathematics1/basic_mathematics
    mathematics2/calculus
    mathematics3/linear_algebra
