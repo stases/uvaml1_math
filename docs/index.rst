@@ -12,5 +12,4 @@ Contents
    :maxdepth: 2
    :caption: Maths
 
-   basic_mathematics
-
+   test
