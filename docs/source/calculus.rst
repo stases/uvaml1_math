@@ -4,12 +4,23 @@ Calculus
 Foundations
 -----------
 
-Limits
-......
+Limits and Continuity
+.....................
 
 Differentiability
 .................
 
+Basic derivatives
+...........
+
+Chain rule
+..........
+
+Application of derivative
+.........................
+
+Integrals
+.........
 
 Advanced
 --------
@@ -51,3 +62,12 @@ We therefore find
 
 .. math::
    \frac{dx^x}{dx} = x^x \cdot \frac{d\log x^x}{dx} = x^x \cdot (\log x + 1).
+
+Optimization
+............
+
+Taylor series
+.............
+
+Formal definition of a limit
+............................
