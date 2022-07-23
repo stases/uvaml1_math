@@ -10,9 +10,7 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Maths:
-   mathematics1/basic_mathematics
-   mathematics2/calculus
-   mathematics3/linear_algebra
-
-Enjoy!
+   :caption: Maths
+   source/mathematics1/basic_mathematics
+   source/mathematics2/calculus
+   source/mathematics3/linear_algebra
