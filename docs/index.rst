@@ -10,8 +10,8 @@ Contents
 
 .. toctree::
    :caption: Mathematics for MSc Artificial Intelligence
-   notebooks/mathematics1/basic_mathematics
-   notebooks/mathematics2/calculus
-   notebooks/mathematics3/linear_algebra
+   mathematics1/basic_mathematics
+   mathematics2/calculus
+   mathematics3/linear_algebra
 
-Why
+Enjoy!
