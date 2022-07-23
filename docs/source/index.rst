@@ -12,7 +12,7 @@ Contents
    :maxdepth: 2
    :caption: Mathematics
 
-   source/basic_mathematics
-   source/calculus
-   source/linear_algebra
-   source/vector_calculus
+   basic_mathematics
+   calculus
+   linear_algebra
+   vector_calculus
