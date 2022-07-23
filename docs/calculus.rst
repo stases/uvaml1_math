@@ -16,3 +16,5 @@ Advanced
 
 Logarithmic Differentiation
 ...........................
+
+Does LaTeX work at all? $a$ or $$a$$ maybe?
