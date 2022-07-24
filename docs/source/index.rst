@@ -1,5 +1,5 @@
-Welcome to Mathematics for AI!
-==============================
+Mathematics for AI
+==================
 
 .. note::
 
