@@ -5,12 +5,9 @@ Welcome to Mathematics for AI!
 
    This project is under active development.
 
-Contents
---------
-
 .. toctree::
    :maxdepth: 2
-   :caption: Mathematics
+   :caption: Contents
 
    basic_mathematics
    calculus

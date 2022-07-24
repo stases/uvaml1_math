@@ -68,7 +68,7 @@ Let :math:`f: \mathbb{R} \to \mathbb{R}` be a differentiable function. If we dif
 
 .. math::
 
-   \frac{d \log f(x)}{dx}  \frac{1}{f(x)} \cdot \frac{d f(x)}{dx}.
+   \frac{d \log f(x)}{dx} = \frac{1}{f(x)} \cdot \frac{d f(x)}{dx}.
 
 A direct consequence of this is that
 
