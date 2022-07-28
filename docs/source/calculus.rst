@@ -79,7 +79,7 @@ A direct consequence of this is that
 Note that this holds in general, which is quite a neat identity on its own. However, this also allows us to differentiate functions we else cannot easily differentiate,
 specifically when functions are of the form :math:`(f(x))^{g(x)}.`
 
-.. admonition:: The derivative of :math:`f(x) = x^x`
+.. admonition:: Example: The derivative of :math:`f(x) = x^x`
 
     If we consider the function :math:`f(x) = x^x`, you might be surprised that differentiating such a simple looking function is not as straight forward as expected.
     Using the above identity, we know that
