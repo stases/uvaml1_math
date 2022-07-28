@@ -24,6 +24,9 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+# Custom css file added in _static
+html_static_path = ['_static']
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
