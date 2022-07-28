@@ -25,7 +25,7 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # Custom css file added in _static
-html_css_files = ['_static']
+html_css_files = ['style.css']
 
 # -- Options for HTML output
 
